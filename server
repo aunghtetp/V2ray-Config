@@ -1,0 +1,47 @@
+{
+  "Japan": [
+    "vmess://eyJhZGQiOiJvYy5pbWZ1bi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJleHRyYSI6IiIsImZtIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZDQ1ZjhmNi0wZjBhLTRjYzQtYjkwNy1jNDU4MjQwN2RjOTQiLCJtb2RlIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODExMiIsInBzIjoi8J+Hr/Cfh7Vbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUpQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
+   
+"ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80?headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo", "trojan://PASSWORD@jp2.example.com:443?sni=jp2.example.com#Japan-02",
+    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=%2Ftyxyws&security=tls&encryption=none&host=jp3.yohototo.top&fp=chrome&type=ws&sni=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo"
+   
+"vmess://eyJhZGQiOiI0NS4zMi41Ny4xMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJleHRyYSI6IiIsImZtIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNWI4OTgzMi0wYTdjLTQ4ZGQtOGQxYy1hMjg5MWI1MjIxOTUiLCJtb2RlIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMzIiwicHMiOiLwn4ev8J+HtVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
+
+  ],
+  "Netherlands": [
+    "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%202412806",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014522724",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%207220536",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%203790054",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ%3D@108.181.126.122:8388?type=tcp#%5Bopenproxylist.com%5D%20NL%2013898370",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2015001043",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014521875",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2013944486",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014522588",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%205790345",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%202426826
+"vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=&encryption=none&type=ws#%5Bopenproxylist.com%5D%20NL%2014744657",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%20967771",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2011436618",
+"vless://d9d0f208-d582-41d5-bb7b-742671402810@185.255.179.11:9443?path=%2Fnl02-ws-8e47a&security=tls&alpn=http%2F1.1&encryption=none&host=hub-nl-02.hanvpn.cc&type=ws&sni=hub-nl-02.hanvpn.cc#%5Bopenproxylist.com%5D%20NL%2015751375",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014522151",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2012091149",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%202413586",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2012217995",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2015599459",
+"ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.171:443?type=tcp#%5Bopenproxylist.com%5D%20NL%2013310322",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2015649470",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014522529",
+ss://"Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%202413416",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%205935006",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2010998264",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%206585330",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014001608",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2012811423",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014521746",
+"vless://d9d0f208-d582-41d5-bb7b-742671402810@77.110.117.199:9443?path=%2Fnl01-ws-8e47a&security=tls&alpn=http%2F1.1&encryption=none&host=hub-nl-01.hanvpn.cc&fp=chrome&type=ws&sni=hub-nl-01.hanvpn.cc#%5Bopenproxylist.com%5D%20NL%2015701704",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2012750463",
+"ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080?type=tcp#%5Bopenproxylist.com%5D%20NL%2014001603",
+    "trojan://PASSWORD@nl2.example.com:443#Netherlands-02"
+  ]
+}
