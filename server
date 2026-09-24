@@ -2,8 +2,9 @@
   "Japan": [
     "vmess://eyJhZGQiOiJvYy5pbWZ1bi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJleHRyYSI6IiIsImZtIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhZDQ1ZjhmNi0wZjBhLTRjYzQtYjkwNy1jNDU4MjQwN2RjOTQiLCJtb2RlIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIxODExMiIsInBzIjoi8J+Hr/Cfh7Vbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUpQIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==",
    
-"ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80?headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo", "trojan://PASSWORD@jp2.example.com:443?sni=jp2.example.com#Japan-02",
-    "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=%2Ftyxyws&security=tls&encryption=none&host=jp3.yohototo.top&fp=chrome&type=ws&sni=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo"
+"ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80?headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo",
+
+"vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?path=%2Ftyxyws&security=tls&encryption=none&host=jp3.yohototo.top&fp=chrome&type=ws&sni=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20Japan-Tokyo",
    
 "vmess://eyJhZGQiOiI0NS4zMi41Ny4xMTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImVjaENvbmZpZ0xpc3QiOiIiLCJleHRyYSI6IiIsImZtIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNWI4OTgzMi0wYTdjLTQ4ZGQtOGQxYy1hMjg5MWI1MjIxOTUiLCJtb2RlIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI0NDMzIiwicHMiOiLwn4ev8J+HtVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9",
 
